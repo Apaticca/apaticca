@@ -15,6 +15,9 @@ Para explorar las distintas categorías de mis escritos y noticias, visita el si
 
 Soy Apaticca, una escritora apasionada por la ciencia ficción contemporánea, nacida en Santiago de Chile. Desde joven, me he sentido atraída por las posibilidades infinitas del universo y las historias que se pueden tejer en él. Mi nombre es María Ignacia Apatez y desde temprana edad, he estado fascinada por las historias que exploran lo desconocido, lo futurista y los confines del universo.
 
+# Sobre mí
+María Ignacia Apatez es una visionaria autora chilena apasionada por explorar los reinos de la ciencia ficción y el cyberpunk. Nacida y criada en Santiago, cultivó su talento creativo mientras estudiaba Diseño en la prestigiosa Universidad de Chile. La experiencia única en diseño de María se entrelaza a la perfección con su vívida imaginación, lo que le permite crear mundos inmersivos y narraciones cautivadoras. Inspirándose en sus experiencias multiculturales y el dinámico paisaje urbano de Santiago, María teje cuentos que ahondan en las profundidades de los desafíos sociales, los avances tecnológicos y el indomable espíritu de resistencia. A través de su trabajo, invita a los lectores a cuestionar los límites de la realidad y visualizar un futuro donde la humanidad triunfe sobre la adversidad.
+
 # Mi Historia
 
 Nací y crecí en Santiago, rodeada de montañas y el bullicio de la ciudad. La ciencia ficción siempre ha sido mi género preferido, no solo por sus escenarios futuristas y tecnologías avanzadas, sino porque permite explorar la naturaleza humana en situaciones extremas.
