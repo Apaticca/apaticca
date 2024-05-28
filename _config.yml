@@ -29,6 +29,16 @@ github_username:  apaticca
 
 # Build settings
 theme: minima
+
+# Other configurations...
+
+permalink: /:categories/:year/:month/:day/:title:output_ext
+
+paginate: 5
+paginate_path: "/page:num/"
+
+# Include any other necessary configurations...
+
 plugins:
   - jekyll-feed
 # _config.yml
