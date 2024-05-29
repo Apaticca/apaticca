@@ -38,6 +38,7 @@ paginate: 5
 paginate_path: "/page:num/"
 
 # Include any other necessary configurations...
+baseurl: /apaticca
 
 plugins:
   - jekyll-feed
